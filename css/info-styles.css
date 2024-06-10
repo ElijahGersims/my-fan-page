@@ -1,0 +1,13 @@
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', sans-serif;
+    background-color: gray;
+    color : black;
+    text-align: center;
+}
+
+form {
+    background-color: lightgray;
+    margin: 0 auto;
+    width: 350px;
+    text-align: center;
+}
